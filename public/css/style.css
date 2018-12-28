@@ -1,11 +1,19 @@
 hr {
   border-width: 5px;
-  background-color: #01c8c2;
+  background-color: #08cae6;
   margin: -5px;
+}
+
+.active {
+  text-color: #08cae6;
 }
 
 nav ul li img {
   margin-right: 150px;
+}
+
+* {
+  font-family: Poppins;
 }
 
 /*# sourceMappingURL=style.css.map */
