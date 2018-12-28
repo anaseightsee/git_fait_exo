@@ -16,4 +16,16 @@ nav ul li img {
   font-family: Poppins;
 }
 
+.skyblue {
+  background-color: #08cae6;
+}
+
+.darkblue {
+  background-color: #04091d;
+}
+
+.sectionlight .row .col-3 p {
+  font-size: 0.75em;
+}
+
 /*# sourceMappingURL=style.css.map */
